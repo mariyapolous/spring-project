@@ -1,0 +1,1 @@
+CREATE SCHEMA `spring-project` DEFAULT CHARACTER SET utf8 ;
